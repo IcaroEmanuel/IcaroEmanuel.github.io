@@ -1,3 +1,3 @@
-Repositório de portfolios
+Portfolio
 
-Este repositório contém projetos criados durante meu período de estudos na Trybe
+Este é o repositório do meu portfolio criado durante os estudos na Trybe
