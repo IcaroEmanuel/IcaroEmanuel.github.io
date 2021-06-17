@@ -4,6 +4,11 @@ body{
   color: #212529;
 }
 
+a{
+  text-decoration: none;
+  color:#212529 ;
+}
+
 .nome-cabecalho{
  font-family: 'Roboto', sans-serif;
  font-weight: 600;
@@ -26,7 +31,8 @@ body{
   text-align: center;
 }
 
-a{
-  text-decoration: none;
-  color:#212529 ;
+.subtitulos{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 600;
+  border-bottom: 1px solid #808080;
 }
